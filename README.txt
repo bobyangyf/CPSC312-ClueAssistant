@@ -1,4 +1,4 @@
-Yifan (Bob) Yang, Frank Rui
+Bob Yang, Frank Rui
 
 == INSTRUCTIONS ==
 1) Compile clue.pl with prolog. All other files will be automatically loaded.
